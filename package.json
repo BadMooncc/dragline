@@ -1,0 +1,10 @@
+{
+  "name": "vue-dragline",
+  "version": "1.0.4",
+  "main": "lib/vue-dragline.umd.min.js",
+  "author": "zhaodh",
+  "license": "MIT",
+  "dependencies": {
+    "vue-draggable-resizable": "^2.3.0"
+  }
+}
